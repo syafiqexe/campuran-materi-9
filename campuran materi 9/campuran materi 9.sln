@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "campuran materi 9", "campuran materi 9.csproj", "{90A018AC-1FED-4988-A924-268C51CD845B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A018AC-1FED-4988-A924-268C51CD845B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A018AC-1FED-4988-A924-268C51CD845B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A018AC-1FED-4988-A924-268C51CD845B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A018AC-1FED-4988-A924-268C51CD845B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F69EE4D4-9490-4FFF-8578-9E3814085A43}
+	EndGlobalSection
+EndGlobal

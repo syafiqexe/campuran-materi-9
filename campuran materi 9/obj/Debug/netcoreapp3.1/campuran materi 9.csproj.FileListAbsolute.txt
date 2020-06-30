@@ -1,0 +1,11 @@
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\bin\Debug\netcoreapp3.1\campuran materi 9.exe
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\bin\Debug\netcoreapp3.1\campuran materi 9.deps.json
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\bin\Debug\netcoreapp3.1\campuran materi 9.runtimeconfig.json
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\bin\Debug\netcoreapp3.1\campuran materi 9.runtimeconfig.dev.json
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\bin\Debug\netcoreapp3.1\campuran materi 9.dll
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\bin\Debug\netcoreapp3.1\campuran materi 9.pdb
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\obj\Debug\netcoreapp3.1\campuran materi 9.csprojAssemblyReference.cache
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\obj\Debug\netcoreapp3.1\campuran materi 9.AssemblyInfoInputs.cache
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\obj\Debug\netcoreapp3.1\campuran materi 9.AssemblyInfo.cs
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\obj\Debug\netcoreapp3.1\campuran materi 9.dll
+D:\GH\tugas 9\campuran materi 9\campuran materi 9\obj\Debug\netcoreapp3.1\campuran materi 9.pdb
